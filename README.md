@@ -105,7 +105,45 @@ Some columns have missing values, indicated by the "Non-Null Count" being less t
 Because of the missing values, I had to clean the dataset. I also changed the Event.Date column into datetime datatype to help with clear Visualizations when dealing with time. I also  checked for outliers and dealt with them.
 
 #### Visualizations
-The first visualization is a bar graph of the top 10 Aircrafts per number of accidents.
+1. ###### The first visualization is a bar graph of the top 10 Aircrafts per number of accidents.
 
-![Top 10 aircrafs per Number of Accidents](path/to/image.jpg)
+![Top 10 aircrafs per Number of Accidents](Top_10_Aircraft.png)
 
+This is a bar graph of the top 10 aircrafts according to mode, and the number of accidents each has had.
+
+From the graph, we can deduce the following.
+
+Key Observations:
+
+##### Cessna Dominates:
+Cessna is by far the most frequently involved aircraft make, with a significantly higher number of accidents compared to the others.
+
+##### Piper and Beech Follow:
+
+Piper and Beech also have notably high accident counts, ranking second and third respectively.
+
+##### Bell and Boeing: 
+
+Bell and Boeing appear to be involved in a moderate number of accidents.
+
+##### Robinson, Grumman, Bellanca, Mooney, and Hughes: 
+
+These aircraft makes have relatively lower accident counts, forming the lower end of the top 10 list.
+
+#### Potential Outcomes:
+
+##### Popularity and Production: 
+
+The high frequency of Cessna, Piper, and Beech accidents might be partially attributed to their popularity and larger production volumes.
+
+##### Aircraft Design or Usage: 
+
+Factors such as aircraft design intended use (e.g., general aviation, commercial), or operating conditions could also influence accident rates.
+
+##### Data Limitations: 
+
+It's important to note that this analysis is based on the top 10 aircraft makes and doesn't account for less common makes or models.
+
+2. ###### The second visualization is of various weather conditions and the number of accidents that occured  during that weather condition.
+
+![Top 10 aircrafs per Number of Accidents](Top_10_Aircraft.png)
