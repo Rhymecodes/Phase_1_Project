@@ -146,4 +146,65 @@ It's important to note that this analysis is based on the top 10 aircraft makes 
 
 2. ###### The second visualization is of various weather conditions and the number of accidents that occured  during that weather condition.
 
-![Top 10 aircrafs per Number of Accidents](Top_10_Aircraft.png)
+![Number of accidents per weather condition](Weather condition.png)
+
+From the histogram above, we can deduce the following:
+Key Observations:
+
+##### VMC Dominates: 
+
+The "VMC" (Visual Meteorological Conditions) category has the highest number of accidents by a significant margin, indicating that the majority of accidents occur in clear weather conditions.
+
+##### IMC and UNK: 
+
+The "IMC" (Instrument Meteorological Conditions) and "UNK" (Unknown) categories have considerably lower accident counts, suggesting that while weather can be a contributing factor, it's not the primary cause in most cases.
+
+#### Potential Outcomes/ views:
+
+##### Pilot Error: 
+
+The dominance of VMC accidents might suggest that pilot error is a more significant factor than weather conditions, especially in clear weather when visibility is high.
+
+##### Maintenance and Inspection: 
+
+Ensuring proper maintenance and inspections of aircraft can help prevent accidents, regardless of weather conditions.
+
+##### Data Limitations: 
+
+The "UNK" category indicates that the weather conditions for a portion of accidents were not recorded or determined, which could limit our understanding of the role of weather in aviation safety.
+
+3. The third visualization is of the trend of accidents over time.
+   [Trend of aviation accidents overtime](Trend overtime.png)
+
+   From the line graph above, we can deduce the following:
+   Key Observations:
+
+##### Significant Decrease: 
+
+There's a clear downward trend in the number of aviation accidents over time, suggesting that safety measures and advancements in technology have been effective in reducing the occurrence of accidents.
+
+##### Sharp Drop in the 1970s: 
+
+The most dramatic decrease appears to have occurred in the 1970s, possibly due to advancements in aircraft design, safety regulations, and pilot training.
+
+##### Relatively Stable Recent Years: 
+
+While there was a slight upward trend in the late 2000s, the overall number of accidents has remained relatively stable in recent years.
+
+#### Potential Implications:
+
+##### Safety Improvements: 
+
+The ongoing downward trend indicates that the aviation industry has made significant strides in improving safety.
+
+##### Regulatory Impact: 
+
+Safety regulations, such as those implemented by the International Civil Aviation Organization (ICAO), have played a crucial role in reducing accidents.
+
+##### Technological Advancements: 
+
+Advancements in aircraft design, avionics, and air traffic management systems have also contributed to improved safety.
+
+##### Data Limitations: 
+
+It's important to note that this analysis is based on the overall trend and doesn't account for factors like accident severity, regional variations, or specific causes of accidents.
