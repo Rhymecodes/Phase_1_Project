@@ -174,7 +174,7 @@ Ensuring proper maintenance and inspections of aircraft can help prevent acciden
 The "UNK" category indicates that the weather conditions for a portion of accidents were not recorded or determined, which could limit our understanding of the role of weather in aviation safety.
 
 3. The third visualization is of the trend of accidents over time.
-   ![Trend of aviation accidents overtime](Trend_overtime.png)
+   ![Trend of aviation accidents overtime](Trend _overtime.png)
 
    From the line graph above, we can deduce the following:
    Key Observations:
