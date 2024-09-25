@@ -146,7 +146,7 @@ It's important to note that this analysis is based on the top 10 aircraft makes 
 
 2. ###### The second visualization is of various weather conditions and the number of accidents that occured  during that weather condition.
 
-![Number of accidents per weather condition](Weather condition.png)
+![Number of accidents per weather condition](Weather_condition.png)
 
 From the histogram above, we can deduce the following:
 Key Observations:
@@ -174,7 +174,7 @@ Ensuring proper maintenance and inspections of aircraft can help prevent acciden
 The "UNK" category indicates that the weather conditions for a portion of accidents were not recorded or determined, which could limit our understanding of the role of weather in aviation safety.
 
 3. The third visualization is of the trend of accidents over time.
-   ![Trend of aviation accidents overtime](Trend overtime.png)
+   ![Trend of aviation accidents overtime](Trend_overtime.png)
 
    From the line graph above, we can deduce the following:
    Key Observations:
