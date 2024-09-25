@@ -105,11 +105,11 @@ Some columns have missing values, indicated by the "Non-Null Count" being less t
 Because of the missing values, I had to clean the dataset. I also changed the Event.Date column into datetime datatype to help with clear Visualizations when dealing with time. I also  checked for outliers and dealt with them.
 
 #### Visualizations
-1. ###### The first visualization is a bar graph of the top 10 Aircrafts per number of accidents.
+1. ###### The first visualization is a histogram of the top 10 Aircrafts per number of accidents.
 
 ![Top 10 aircrafs per Number of Accidents](Top_10_Aircraft.png)
 
-This is a bar graph of the top 10 aircrafts according to mode, and the number of accidents each has had.
+This is a histogram of the top 10 aircrafts according to mode, and the number of accidents each has had.
 
 From the graph, we can deduce the following.
 
